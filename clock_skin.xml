@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>3b4c440e245f21592ac5628220ecfdb8 copy.png</name>
+	</drawable>
+	<drawable>
+		<name>hand_minute_22.png</name>
+		<rotate>2</rotate>
+		<centerX>-5</centerX>
+		<centerY>-5</centerY>
+	</drawable>
+	<drawable>
+		<name>hand_hour_22.png</name>
+		<rotate>1</rotate>
+		<centerX>-5</centerX>
+		<centerY>-5</centerY>
+	</drawable>
+	<drawable>
+		<name>hand_second_9.png</name>
+		<rotate>3</rotate>
+		<centerX>-5</centerX>
+		<centerY>-5</centerY>
+		<direction>1</direction>
+	</drawable>
+	<drawable>
+		<name>days.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>115</centerX>
+		<centerY>33</centerY>
+	</drawable>
+</clockskin>
